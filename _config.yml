@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt_Qiu" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "使用minimal-mistakes主题的Jekyll网站"
+title                    : "Qiu"
 title_separator          : ":"
 name                     : "邱麟茹"
-description              : "Qiu"
+description              : "使用Jekyll搭建的网站"
 url                      : "https://voyzze.github.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "NFUNM071/minimal-mistakes"
