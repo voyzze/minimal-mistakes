@@ -31,3 +31,8 @@ $base0c: #6eb958 !default;
 $base0d: #88a4d3 !default;
 $base0e: #bb90e2 !default;
 $base0f: #b49368 !default;
+
+/* system typefaces 使用中文字形 */
+$serif: DFKai-SB,Kai,Kaiti SC,KaiTi,BiauKai,\\6977\4F53,\\6977\4F53_GB2312,Songti SC,Georgia, Times, serif !default;
+$sans-serif: "\534E\6587\7EC6\9ED1","Helvetica Neue",YouYuan,\\5E7C\5706,幼圆,"Segoe UI",-apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI","Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
