@@ -1,17 +1,6 @@
 ---
 title:  "SVG的历史"
-modified: 2018-06-13T16:03:49-04:00
-categories: 
-  - 网页制作
-tags:
-  - SVG
 ---
-
-Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes... as a gemified theme.
-
-{% include base_path %}
-
-{% include toc title="Getting Started" %}
 
 SVG允许在代码中使用矢量点来描述二维图像。
 
