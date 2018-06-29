@@ -19,7 +19,7 @@ locale                   : "zh-CN"
 title                    : "使用minimal-mistakes主题的Jekyll网站"
 title_separator          : ":"
 name                     : "邱麟茹"
-description              : "使用Jekyll搭建的网站"
+description              : "Qiu"
 url                      : "https://voyzze.github.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "NFUNM071/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "邱麟茹"
   avatar           : "/images/avatar.jpg"
-  bio              : "中山大学南方学院 文学与传媒学院"
+  bio              : "404使我快乐:)"
   location         : "广东-广州"
   email            :
   uri              : "https://gitee.com/NFUNM071"
