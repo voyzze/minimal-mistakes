@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /svg/
 title: "SVG"
+permalink: /svg/
 author_profile: false
 ---
 
