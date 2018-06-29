@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt_Qiu" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -100,12 +100,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "邱麟茹"
+  avatar           : "/images/avatar.jpg"
+  bio              : "中山大学南方学院 文学与传媒学院"
+  location         : "广东-广州"
   email            :
-  uri              :
+  uri              : "https://gitee.com/NFUNM071"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "voyzze"
   gitlab           :
   google_plus      :
   keybase          :
@@ -188,7 +188,38 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+ 
+# Collections
+collections:
+  svg:
+    output: true
+    permalink: /:collection/:path/
 
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _svg
+  - scope:
+      path: ""
+      type: svg
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
+    
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -231,7 +262,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /design/
 tag_archive:
   type: liquid
   path: /tags/
@@ -254,18 +285,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
