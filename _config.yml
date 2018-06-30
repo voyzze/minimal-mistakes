@@ -20,10 +20,10 @@ title                    : "Qiu"
 title_separator          : ":"
 name                     : "邱麟茹"
 description              : "使用Jekyll搭建的网站"
-url                      : "https://voyzze.github.io"
+url                      : "https://nfunm071.gitee.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "NFUNM071/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
