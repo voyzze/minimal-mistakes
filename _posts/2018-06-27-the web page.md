@@ -2,10 +2,16 @@
 title:  "页面元素的重要性"
 modified: 2018-06-27T16:03:49-04:00
 categories: 
-  - 网页页面
-tags:分析元素的重要性
+  - 平面设计
+tags:
+  - 分析元素的重要性
   
 ---
+
+{% include base_path %}
+
+{% include toc title="目录" %}
+
 ## 页面全图
 
   随便打开一个页面当作例子
