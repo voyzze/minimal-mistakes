@@ -23,6 +23,7 @@ description              : "使用Jekyll搭建的网站"
 url                      : "https://nfunm071.gitee.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "NFUNM071/minimal-mistakes"
+affiliation              : " <a href = 'http://www.nfu.edu.cn/'>中山大学南方学院</a>  网络与新媒体2017级学生"
 teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
