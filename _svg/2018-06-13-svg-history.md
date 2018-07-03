@@ -1,6 +1,17 @@
 ---
-title:  "SVG的历史"
+title:  "svg-history"
+modified: 2018-06-27T16:03:49-04:00
+categories: 
+  - SVG制作
+tags:
+  - svg history
+  
 ---
+
+{% include base_path %}
+
+{% include toc title="目录" %}
+
 
 SVG允许在代码中使用矢量点来描述二维图像。
 
