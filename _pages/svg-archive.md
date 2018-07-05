@@ -10,3 +10,6 @@ author_profile: false
 {% for post in site.svg %}
   {% include archive-single.html %}
 {% endfor %}
+
+sidebar:
+  nav: "docs"

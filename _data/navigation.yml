@@ -42,16 +42,16 @@ docs:
 
   - title: Content
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "简书"
+        url: https://www.jianshu.com/u/59cea1c9acef
+      - title: "SVG制作"
+        url: /docs/_svg/
+      - title: "界面设计"
+        url: /docs/design/#界面设计/
+      - title: "平面设计"
+        url: /docs/design/#平面设计
+      - title: "About"
+        url: /docs/about/
 
   - title: Extras
     children:
@@ -62,3 +62,4 @@ docs:
         
 sidebar:
   nav: "docs"    
+  
