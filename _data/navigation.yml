@@ -13,53 +13,34 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
-# sidebar links
-sidebar:
 docs:
-  - title: Getting Started
+  - title: SVG制作
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "svg-history"
+        url: https://nfunm071.gitee.io/minimal-mistakes/svg/2018-06-13-svg-history/
+      - title: "Introduction of svg"
+        url: https://nfunm071.gitee.io/minimal-mistakes/svg/2018-06-20-svg/
+      - title: "svg动画1"
+        url: https://nfunm071.gitee.io/minimal-mistakes/svg/2018-07-02-svg动画1/
+      - title: "SVG动画实践1"
+        url: https://nfunm071.gitee.io/minimal-mistakes/svg/2018-07-03-svg动画实践1/
+      - title: "SVG动画实践2"
+        url: https://nfunm071.gitee.io/minimal-mistakes/svg/2018-07-03-svg动画实践2/
 
-  - title: Customization
+  - title: 平面设计
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: Content
-    children:
-      - title: "简书"
-        url: https://www.jianshu.com/u/59cea1c9acef
-      - title: "SVG制作"
-        url: /docs/_svg/
-      - title: "界面设计"
-        url: /docs/design/#界面设计/
-      - title: "平面设计"
-        url: /docs/design/#平面设计
-      - title: "About"
-        url: /docs/about/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "视觉效果"
+        url: https://nfunm071.gitee.io/minimal-mistakes/平面设计/visual/
+      - title: "简洁平面"
+        url: https://nfunm071.gitee.io/minimal-mistakes/平面设计/modify/
+      - title: "视觉层次结构"
+        url: https://nfunm071.gitee.io/minimal-mistakes/平面设计/construction/
         
-sidebar:
-  nav: "docs"    
-  
+  - title: 界面设计
+    children:
+      - title: "设计导航"
+        url: https://nfunm071.gitee.io/minimal-mistakes/界面设计/navigation/
+      - title: "交互组件"
+        url: https://nfunm071.gitee.io/minimal-mistakes/界面设计/interaction/
+      - title: "页面元素的重要性"
+        url: https://nfunm071.gitee.io/minimal-mistakes/界面设计/the-web-page/
