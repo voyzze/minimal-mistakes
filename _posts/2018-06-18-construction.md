@@ -6,6 +6,13 @@ categories:
 tags:
   - 视觉结构
   
+toc_label: true
+header:
+  overlay_image: /images/street.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "Times"
+  cta_url: "https://unsplash.com"
+  
 sidebar:
   nav: "docs"
 
