@@ -6,6 +6,9 @@ categories:
 tags:
   - 视觉结构
   
+sidebar:
+  nav: "docs"
+
 ---
 
 {% include base_path %}

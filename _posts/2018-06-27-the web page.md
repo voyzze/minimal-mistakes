@@ -6,6 +6,9 @@ categories:
 tags:
   - 分析元素的重要性
   
+sidebar:
+  nav: "docs"
+  
 ---
 
 {% include base_path %}
