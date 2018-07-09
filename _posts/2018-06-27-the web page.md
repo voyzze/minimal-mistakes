@@ -5,7 +5,13 @@ categories:
   - 界面设计
 tags:
   - 分析元素的重要性
-  
+
+toc_label: true
+header:
+  overlay_image: /images/city.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_url: "https://unsplash.com"
+ 
 sidebar:
   nav: "docs"
   

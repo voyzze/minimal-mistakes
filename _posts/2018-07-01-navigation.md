@@ -6,6 +6,13 @@ categories:
 tags:
   - 导航
 
+toc_label: true
+header:
+  overlay_image: /images/city2.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "Urban"
+  cta_url: "https://unsplash.com"
+  
 sidebar:
   nav: "docs"
    
