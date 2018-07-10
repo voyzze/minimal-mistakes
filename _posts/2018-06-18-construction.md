@@ -12,6 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "Times"
   cta_url: "https://unsplash.com"
+  teaser: /images/street.jpg
   
 sidebar:
   nav: "docs"

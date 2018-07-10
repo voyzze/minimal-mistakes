@@ -11,6 +11,7 @@ header:
   overlay_image: /images/city.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_url: "https://unsplash.com"
+  teaser: /images/city.jpg
  
 sidebar:
   nav: "docs"
