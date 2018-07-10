@@ -12,6 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "Urban"
   cta_url: "https://unsplash.com"
+  teaser: /images/city2.jpg
   
 sidebar:
   nav: "docs"
